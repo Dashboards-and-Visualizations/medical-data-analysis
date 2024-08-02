@@ -70,12 +70,12 @@ python scripts/calculator.py
 
 ## Results
 
-Detailed results and analysis of the data can be found in the [docs/results.md](results.md) file.
+Detailed results and analysis of the data can be found in the [results.md](results.md) file.
 
 ## Testing
 
 Unit tests are provided to ensure the functionality of each component in the `calculator.py` script. For detailed 
-information about the test cases and their outcomes, refer to the [docs/test.md](test.md) file.
+information about the test cases and their outcomes, refer to the [test.md](test.md) file.
 
 ### Running the Tests
 
@@ -97,14 +97,14 @@ are managed and reported to ensure smooth execution.
 This plot shows the count of various categorical variables (active, alcohol consumption, cholesterol, glucose levels, 
 overweight status, smoking status) split by the presence of cardiovascular disease.
 
-![Category Plot](output-figures/category-plot.jpg)
+<img src="https://github.com/Dashboards-and-Visualizations/medical-data-analysis/blob/main/figures/category-plot.jpg">
 
 ### Correlation Matrix
 
 This heatmap shows the correlation between different medical variables, helping to identify potential relationships and 
 patterns.
 
-![Correlation Matrix](output-figures/medical-data.jpg)
+<img src="https://github.com/Dashboards-and-Visualizations/medical-data-analysis/blob/main/figures/medical-data.jpg">
 
 ## Contributing
 
